@@ -6,7 +6,7 @@
   > Depth maps engaged  <br />
   > Vision Pro syncing ███████▓▓▓░░░░ <br />
   <br />
-  davecancode is building surreal software at the edge of AI, XR, and vibes.
+  building surreal software at the edge of AI, XR, and vibes.
 </div>
 <br />
 <!--
@@ -56,6 +56,7 @@ Want to build something that looks impossible but ships fast?
 - 🛠 [Book a consult](https://kit.davecancode.com/solutions) (Immersive, AI, Games, Crypto, Analytics)
 - ⚡ [Join a 5-day sprint](https://kit.davecancode.com/five-day-workshop)
 - 🌀 [Explore Vision Pro art](https://apps.apple.com/us/app/museum-explore-immersive-art/id6692502746)
+- 🪐 [Experience Curated 3D virtual worlds](https://apps.apple.com/us/app/spaces-explore-immersive-art/id6502955340)
 
 ---
 
