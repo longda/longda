@@ -1,12 +1,16 @@
 <!-- README.md for davecancode -->
 
-<div align="center">
+<div>
   // decoding reality... <br />
   > AI initialized <br />
   > Depth maps engaged  <br />
   > Vision Pro syncing ███████▓▓▓░░░░ <br />
   <br />
   Hello, I'm Dave. I build digital rituals. <br />
+</div>
+
+<div align="center">
+  
   
   🧠 creative technologist · 🌀 code poet · 🧩 glitch architect  
   building surreal software at the edge of AI, XR, and vibes.
