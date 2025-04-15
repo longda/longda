@@ -9,8 +9,8 @@
   davecancode is building surreal software at the edge of AI, XR, and vibes.
 </div>
 <br />
-<br />
 <!--
+<br />
 <div align="center">
   
   🧠 creative technologist · 🌀 code poet · 🧩 glitch architect  
@@ -23,7 +23,7 @@
 
 ### 👋 About Me
 
-Hi, I’m Dave — a creative technology architect based in LA.  
+Hi, I’m Dave — a creative technology architect based in Miami.  
 I help teams prototype weird, wonderful, and profitable ideas — fast.  
 Think: immersive apps, generative tools, 3D experiments, and AI personalities.
 
