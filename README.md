@@ -33,7 +33,7 @@ Think: immersive apps, generative tools, 3D experiments, and AI personalities.
 ### 🧪 Recent Experiments
 
 - 🌀 **WebGPU scanline FX** — depth maps + liquid distortion  
-- 🎧 **AI music** as Brown Eyed Redhead — instrumental genre-bending  
+- 🎧 **AI music** as ███████▓▓▓░░░░ — instrumental genre-bending  
 - 👁 **Vision Pro apps** featured on the App Store + at The Whitney  
 - 🤖 **███████▓▓▓░░░░** — lore-rich AI influencer built from code, not clout  
 
