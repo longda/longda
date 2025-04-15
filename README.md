@@ -32,7 +32,7 @@ Think: immersive apps, generative tools, 3D experiments, and AI personalities.
 - 🌀 **WebGPU scanline FX** — depth maps + liquid distortion  
 - 🎧 **AI music** as Brown Eyed Redhead — instrumental genre-bending  
 - 👁 **Vision Pro apps** featured on the App Store + at The Whitney  
-- 🤖 **Nina Null** — lore-rich AI influencer built from code, not clout  
+- 🤖 **███████▓▓▓░░░░** — lore-rich AI influencer built from code, not clout  
 
 ---
 
