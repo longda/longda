@@ -53,7 +53,7 @@ Want to build something that looks impossible but ships fast?
 
 - 🛠 [Book a consult](https://kit.davecancode.com/solutions) (Immersive, AI, Games, Crypto, Analytics)
 - ⚡ [Join a 5-day sprint](https://kit.davecancode.com/five-day-workshop)
-- 🌀 [Explore Vision Pro art](https://apps.apple.com/us/app/spaces-explore-immersive-art/id6472191013)
+- 🌀 [Explore Vision Pro art](https://apps.apple.com/us/app/museum-explore-immersive-art/id6692502746)
 
 ---
 
