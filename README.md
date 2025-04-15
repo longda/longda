@@ -8,10 +8,9 @@
   <br />
   Hello, I'm Dave. I build digital rituals. <br />
 </div>
-
+<br />
+<br />
 <div align="center">
-  
-  
   🧠 creative technologist · 🌀 code poet · 🧩 glitch architect  
   building surreal software at the edge of AI, XR, and vibes.
 
