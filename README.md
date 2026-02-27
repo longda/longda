@@ -21,8 +21,6 @@
 
 ---
 
-### 👋 About Me
-
 Hi, I’m Dave — a creative technology architect based in Miami.  
 I help teams prototype weird, wonderful, and profitable ideas — fast.  
 Think: immersive apps, generative tools, 3D experiments, and AI personalities.
@@ -33,7 +31,7 @@ Think: immersive apps, generative tools, 3D experiments, and AI personalities.
 
 ---
 
-### 🧪 Recent Experiments
+### Recent Experiments
 
 - 🌀 **WebGPU scanline FX** — depth maps + liquid distortion  
 - 🎧 **AI music** as Brown Eyed Redhead — instrumental genre-bending  
@@ -42,14 +40,14 @@ Think: immersive apps, generative tools, 3D experiments, and AI personalities.
 
 ---
 
-### 🛠 Tech I Play With
+### Tech I Play With
 
 `Unity3D` · `Swift` · `Three.js` · `WebXR` · `Python`  
 `Computer Vision` · `LLMs` · `D3.js` · `ARKit` · `WebGPU`
 
 ---
 
-### 🛸 Consulting + Prototyping
+### Consulting + Prototyping
 
 Want to build something that looks impossible but ships fast?
 
@@ -60,7 +58,7 @@ Want to build something that looks impossible but ships fast?
 
 ---
 
-### 🧿 Connect With Me
+### Connect With Me
 
 - 🐦 [Twitter / X](https://x.com/davecancode)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/davecancode/)  
