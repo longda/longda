@@ -58,15 +58,6 @@ Want to build something that looks impossible but ships fast?
 
 ---
 
-### Connect With Me
-
-- 🐦 [Twitter / X](https://x.com/davecancode)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/davecancode/)  
-- 🌐 [Website](https://davecancode.com)  
-- 🧠 [Linktree](https://linktr.ee/davecancode)
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Unity3D-black?logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white" />
@@ -74,11 +65,6 @@ Want to build something that looks impossible but ships fast?
   <img src="https://img.shields.io/badge/AI%20powered-6e40c9?logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Vision_Pro-ready-blueviolet" />
 </p>
-
----
-
-> “Code is not just instruction — it's intention.”  
-> — davecancode
 
 
 
