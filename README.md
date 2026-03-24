@@ -33,9 +33,12 @@ Think: immersive apps, generative tools, 3D experiments, and AI personalities.
 
 ### Recent Experiments
 
-- 🌀 **WebGPU scanline FX** — depth maps + liquid distortion  
+- 🌀 **Halftone FX** — classic, cmyk print, + gooey dots - [demo](https://halftone.davecancode.com/) 
+- 🌀 **WebGPU scanline FX** — depth maps + liquid distortion - [demo](https://depth.davecancode.com/) 
+- 👁 **Vision Pro apps** featured on the App Store + at The Whitney
+  - 🪐 [Experience Curated 3D virtual worlds](https://apps.apple.com/us/app/spaces-explore-immersive-art/id6502955340)   
+  - 🎨 [Explore Vision Pro art](https://apps.apple.com/us/app/museum-explore-immersive-art/id6692502746)
 - 🎧 **AI music** as Brown Eyed Redhead — instrumental genre-bending  
-- 👁 **Vision Pro apps** featured on the App Store + at The Whitney  
 - 🤖 **Nina Null** — lore-rich AI influencer built from code, not clout  
 
 ---
@@ -53,8 +56,6 @@ Want to build something that looks impossible but ships fast?
 
 - 🛠 [Book a consult](https://kit.davecancode.com/solutions) (Immersive, AI, Games, Crypto, Analytics)
 - ⚡ [Join a 5-day sprint](https://kit.davecancode.com/five-day-workshop)
-- 🌀 [Explore Vision Pro art](https://apps.apple.com/us/app/museum-explore-immersive-art/id6692502746)
-- 🪐 [Experience Curated 3D virtual worlds](https://apps.apple.com/us/app/spaces-explore-immersive-art/id6502955340)
 
 ---
 
