@@ -34,7 +34,7 @@ Think: immersive apps, generative tools, 3D experiments, and AI personalities.
 ### Recent Experiments
 
 - 🧠 **AI SDK RAG** — chunk → embed → pgvector search, streaming chat with tool-grounded answers — [repo](https://github.com/longda/ai-sdk-rag)
-- - 💬 **AI Chatbot** — production-style chat UI with AI SDK, models + web search, Streamdown — [demo](https://github.com/longda/ai-sdk-ai-chatbot)
+- 💬 **AI Chatbot** — production-style chat UI with AI SDK, models + web search, Streamdown — [demo](https://github.com/longda/ai-sdk-ai-chatbot)
 - 🔮 **Halftone FX** — classic, cmyk print, + gooey dots - [demo](https://halftone.davecancode.com/) 
 - 🌀 **WebGPU scanline FX** — depth maps + liquid distortion - [demo](https://depth.davecancode.com/) 
 - 👁 **Vision Pro apps** featured on the App Store + at The Whitney
