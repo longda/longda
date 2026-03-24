@@ -21,7 +21,7 @@
 
 ---
 
-Hi, I’m Dave — a creative technology architect based in Miami.  
+Hi, I’m Dave — a creative technology architect + ai engineer based in Miami.  
 I help teams prototype weird, wonderful, and profitable ideas — fast.  
 Think: immersive apps, generative tools, 3D experiments, and AI personalities.
 
@@ -33,7 +33,7 @@ Think: immersive apps, generative tools, 3D experiments, and AI personalities.
 
 ### Recent Experiments
 
-- 🌀 **Halftone FX** — classic, cmyk print, + gooey dots - [demo](https://halftone.davecancode.com/) 
+- 🔮 **Halftone FX** — classic, cmyk print, + gooey dots - [demo](https://halftone.davecancode.com/) 
 - 🌀 **WebGPU scanline FX** — depth maps + liquid distortion - [demo](https://depth.davecancode.com/) 
 - 👁 **Vision Pro apps** featured on the App Store + at The Whitney
   - 🪐 [Experience Curated 3D virtual worlds](https://apps.apple.com/us/app/spaces-explore-immersive-art/id6502955340)   
