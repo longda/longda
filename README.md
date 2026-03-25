@@ -41,7 +41,8 @@ Think: immersive apps, generative tools, 3D experiments, and AI personalities.
   - 🪐 [Experience Curated 3D virtual worlds](https://apps.apple.com/us/app/spaces-explore-immersive-art/id6502955340)   
   - 🎨 [Explore Vision Pro art](https://apps.apple.com/us/app/museum-explore-immersive-art/id6692502746)
 - 🎧 **AI music** as Brown Eyed Redhead — instrumental genre-bending  
-- 🤖 **Nina Null** — lore-rich AI influencer built from code, not clout  
+- 🤖 **Nina Null** — lore-rich AI influencer built from code, not clout
+- 🥷 **Portfolio** — check out more projects + demos in [my portfolio](https://davecancode.com/projects)
 
 ---
 
