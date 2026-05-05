@@ -2,22 +2,13 @@
 
 <div>
   // decoding reality... <br />
-  > AI initialized <br />
-  > Depth maps engaged  <br />
+  > AI initialized. <br />
+  > Depth maps engaged. <br />
   > Vision Pro syncing ███████▓▓▓░░░░ <br />
   <br />
   building surreal software at the edge of AI, XR, and vibes.
 </div>
 <br />
-<!--
-<br />
-<div align="center">
-  
-  🧠 creative technologist · 🌀 code poet · 🧩 glitch architect  
-  building surreal software at the edge of AI, XR, and vibes.
-
-</div>
--->
 
 ---
 
@@ -33,6 +24,7 @@ Think: immersive apps, generative tools, 3D experiments, and AI personalities.
 
 ### Recent Experiments
 
+- 😎 **AI Engineer Lab** — AI engineering demo portfolio with Next.js demos for LLMs, prompt engineering, structured outputs, RAG, embeddings, vector search, agents, MCP, guardrails, observability, and token economics — [repo](https://github.com/longda/ai-engineer)
 - 🧠 **AI SDK RAG** — chunk → embed → pgvector search, streaming chat with tool-grounded answers — [repo](https://github.com/longda/ai-sdk-rag)
 - 💬 **AI Chatbot** — production-style chat UI with AI SDK, models + web search, Streamdown — [repo](https://github.com/longda/ai-sdk-ai-chatbot)
 - 🔮 **Halftone FX** — classic, cmyk print, + gooey dots - [demo](https://halftone.davecancode.com/) 
@@ -48,7 +40,7 @@ Think: immersive apps, generative tools, 3D experiments, and AI personalities.
 
 ### Tech I Play With
 
-`Unity3D` · `Swift` · `Three.js` · `WebXR` · `Python`  
+`Unity3D` · `Swift` · `Three.js` · `WebXR` · `Python` · `Typescript`  
 `Computer Vision` · `LLMs` · `D3.js` · `ARKit` · `WebGPU`
 
 ---
