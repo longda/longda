@@ -49,8 +49,8 @@ Think: immersive apps, generative tools, 3D experiments, and AI personalities.
 
 Want to build something that looks impossible but ships fast?
 
-- 🛠 [Book a consult](https://kit.davecancode.com/solutions) - Immersive, AI, Games, Crypto, Analytics
-- ⚡ [Join a 5-day sprint](https://kit.davecancode.com/five-day-workshop) - intensive sprint similar to a hackathon
+- 🛠 [Book a consult](https://davecancode.com/solutions) - Immersive, AI, Games, Crypto, Analytics
+- ⚡ [Join a 5-day sprint](https://davecancode.com/five-day-workshop) - intensive sprint similar to a hackathon
 
 ---
 
