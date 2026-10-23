@@ -32,7 +32,7 @@ Think: immersive apps, generative tools, 3D experiments, and AI personalities.
 - 👁 **Vision Pro apps** featured on the App Store + at The Whitney
   - 🪐 [Experience Curated 3D virtual worlds](https://apps.apple.com/us/app/spaces-explore-immersive-art/id6502955340)   
   - 🎨 [Explore Vision Pro art](https://apps.apple.com/us/app/museum-explore-immersive-art/id6692502746)
-- 🎧 **AI music** as Brown Eyed Redhead — instrumental genre-bending  
+- 🎧 **AI music** as Brown Eyed Redhead — instrumental genre-bending - [listen](https://www.browneyedredhead.com/) 
 - 🤖 **Nina Null** — lore-rich AI influencer built from code, not clout
 - 🥷 **Portfolio** — check out more projects + demos in [my portfolio](https://davecancode.com/projects)
 
