@@ -54,6 +54,21 @@ Want to build something that looks impossible but ships fast?
 
 ---
 
+
+### Featured Projects
+
+| Preview | Project |
+| --- | --- |
+| [<img src="https://www.davecancode.com/projects/ai-animations.jpeg" width="260" alt="AI Animation Projects" />](https://www.davecancode.com/ai-animations) | **[AI Animation Projects](https://www.davecancode.com/ai-animations)**<br />Animated shorts, generative AI experiments, and explorations in video editing. |
+| [<img src="https://www.davecancode.com/projects/vector-wake.jpg" width="260" alt="Vector Wake" />](https://vector-wake.davecancode.com/) | **[Vector Wake](https://vector-wake.davecancode.com/)**<br />Neon arcade survival with geometric enemies, gravity wells, bombs, and high scores to chase. |
+| [<img src="https://www.davecancode.com/projects/starling-flight-club.jpg" width="260" alt="Starling Flight Club" />](https://starling-flight-club.davecancode.com/) | **[Starling Flight Club](https://starling-flight-club.davecancode.com/)**<br />Explore five spaceships in an interactive 3D hangar, then head out for free flight. |
+| [<img src="https://www.davecancode.com/projects/vice-verse.jpg" width="260" alt="Vice / Verse" />](https://vice-verse.davecancode.com/) | **[Vice / Verse](https://vice-verse.davecancode.com/)**<br />Miami in ASCII. Cruise neon streets or wander on foot through an endless summer. |
+| [<img src="https://www.davecancode.com/projects/backrooms.jpg" width="260" alt="The Backrooms" />](https://backrooms.davecancode.com/) | **[The Backrooms](https://backrooms.davecancode.com/)**<br />Unsettling rooms, eerie soundscapes, and found-footage visuals in a first-person exploration experience. |
+| [<img src="https://www.davecancode.com/projects/little-hollow.jpg" width="260" alt="Little Hollow" />](https://little-hollow.davecancode.com/) | **[Little Hollow](https://little-hollow.davecancode.com/)**<br />A playful 3D puzzle: guide a growing hole through six miniature districts and swallow everything. |
+| [<img src="https://www.davecancode.com/projects/rally-archives.jpg" width="260" alt="Rally Archives" />](https://rally-archives.davecancode.com/) | **[Rally Archives](https://rally-archives.davecancode.com/)**<br />Explore the Martini-liveried Lancia Delta S4 in 3D, with selectable cameras and studio or night lighting. |
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Unity3D-black?logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white" />
